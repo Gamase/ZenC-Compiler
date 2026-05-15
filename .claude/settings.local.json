@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(nasm --version)",
+      "PowerShell(gcc --version)"
+    ]
+  }
+}
